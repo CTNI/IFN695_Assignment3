@@ -1,0 +1,297 @@
+DUID,FuelType,Region,MaxCapacityMW,StationName
+ADPMH1,HYDRO,SA1,1.0,Adelaide Desalination Plant
+ADPPV1,SOLAR,SA1,19.0,Adelaide Desalination Plant
+ADPPV2,SOLAR,SA1,0.2,Adelaide Desalination Plant
+ADPPV3,SOLAR,SA1,0.02,Adelaide Desalination Plant
+ALDGASF1,SOLAR,QLD1,387.0,Aldoga Solar Farm 
+ARWF1,WIND,VIC1,241.0,Ararat Wind Farm
+AVLSF1,SOLAR,NSW1,190.0,Avonlie Solar Farm
+BAKING1,SOLAR,QLD1,14.0,Baking Board Solar Farm
+BALDHWF1,WIND,VIC1,106.0,Bald Hills Wind Farm
+BANGOWF1,WIND,NSW1,155.0,Bango 973 Wind Farm
+BANGOWF2,WIND,NSW1,82.0,Bango 999 Wind Farm
+BAPS,HYDRO,VIC1,13.0,Banimboola Power Station
+BANN1,SOLAR,VIC1,88.0,Bannerton Solar Park
+BARCSF1,SOLAR,QLD1,20.0,Barcaldine Solar Farm
+BARRON-1,HYDRO,QLD1,33.0,Barron Gorge Power Station
+BARRON-2,HYDRO,QLD1,33.0,Barron Gorge Power Station
+BASTYAN,HYDRO,TAS1,88.0,Bastyan Power Station
+BRYB2WF2,WIND,VIC1,105.0,Berrybank 2 Wind Farm
+BRYB1WF1,WIND,VIC1,175.9,Berrybank Wind Farm
+BERYLSF1,SOLAR,NSW1,87.0,Beryl Solar Farm
+BLOWERNG,HYDRO,NSW1,80.0,Blowering Power Station
+BLUEGSF1,SOLAR,QLD1,148.0,Blue Grass Solar Farm
+BOCORWF1,WIND,NSW1,111.0,Boco Rock Wind Farm
+BODWF1,WIND,NSW1,111.0,Bodangora Wind Farm 
+MCKAY1,HYDRO,VIC1,300.0,Bogong / Mackay Power Station
+BOWWPV1,SOLAR,SA1,6.0,Bolivar Waste Water Treatment Plant
+BOMENSF1,SOLAR,NSW1,100.0,Bomen Solar Farm
+BROKENH1,SOLAR,NSW1,53.0,Broken Hill Solar Plant
+BROWNMT,HYDRO,NSW1,6.0,Brown Mountain Hydro Power Station
+BULGANA1,WIND,VIC1,204.0,Bulgana Green Power Hub
+BNGSF1,SOLAR,SA1,110.0,Bungala One Solar Farm
+BNGSF2,SOLAR,SA1,110.0,Bungala Two Solar Farm
+BDONGHYD,HYDRO,NSW1,19.0,Burrendong Hydro Power Station
+BURRIN,HYDRO,NSW1,34.0,Burrinjuck Hydro Power Station
+BUTLERSG,HYDRO,TAS1,15.0,Butlers Gorge Power Station
+CNUNDAWF,WIND,SA1,46.0,Canunda Wind Farm
+CESF1,SOLAR,NSW1,1.0,Capital East Solar Farm
+CAPTL_WF,WIND,NSW1,140.0,Capital Wind Farm
+LI_WY_CA,HYDRO,TAS1,192.0,Catagunya / Liapootah / Wayatinah Power Station
+CATHROCK,WIND,SA1,66.0,Cathedral Rocks
+CTHLWF1,WIND,TAS1,144.0,Cattle Hill Wind Farm
+CETHANA,HYDRO,TAS1,100.0,Cethana Power Station
+CHALLHWF,WIND,VIC1,52.0,Challicum Hills Wind Farm
+CHPSTWF1,WIND,VIC1,6.0,Chepstowe Wind Farm
+CHYTWF1,WIND,VIC1,57.0,Cherry Tree Wind Farm
+CHILDSF1,SOLAR,QLD1,56.0,Childers Solar Farm
+CBWWPV1,SOLAR,SA1,2.0,Christies Beach Wastewater Treatment Plant
+CBWWPV2,SOLAR,SA1,0.81,Christies Beach Wastewater Treatment Plant
+CLARESF1,SOLAR,QLD1,100.0,Clare Solar Farm
+CLRKCWF1,WIND,QLD1,338.0,Clarke Creek Wind Farm
+CLEMGPWF,WIND,SA1,57.0,Clements Gap Wind Farm
+CLERMSF1,SOLAR,QLD1,75.0,Clermont Solar Farm
+CLOVER,HYDRO,VIC1,29.0,Clover Power Station
+CLUNY,HYDRO,TAS1,22.0,Cluny Power Station
+CODRNGTON,WIND,VIC1,18.0,Codrington Wind Farm
+COHUNSF1,SOLAR,VIC1,27.0,Cohuna Solar Farm
+COLEASF1,SOLAR,NSW1,150.0,Coleambally Solar Farm
+COLWF01,WIND,NSW1,219.0,Collector Wind Farm 1
+CSPVPS1,SOLAR,QLD1,40.0,Collinsville Solar PV Power Station
+COLUMSF1,SOLAR,QLD1,162.0,Columboola Solar Farm
+CBWF1,WIND,VIC1,20.0,Coonooer Bridge Wind Farm
+COOPGWF1,WIND,QLD1,440.0,Coopers Gap Wind Farm
+COPTNHYD,HYDRO,NSW1,23.0,Copeton Hydro Power Station
+CRWASF1,SOLAR,NSW1,30.0,Corowa Solar Farm
+CROOKWF2,WIND,NSW1,91.0,Crookwell 2 Wind Farm
+CROOKWF3,WIND,NSW1,56.0,Crookwell 3 Wind Farm
+CROWLWF1,WIND,VIC1,79.0,Crowlands Wind Farm
+CRURWF1,WIND,NSW1,138.0,Crudine Ridge Wind Farm
+CULLRGWF,WIND,NSW1,30.0,Cullerin Range Wind Farm
+DDSF1,SOLAR,QLD1,108.0,Darling Downs Solar Farm
+DARLSF1,SOLAR,NSW1,275.0,Darlington Point Solar Farm
+DARTM1,HYDRO,VIC1,185.0,Dartmouth Power Station
+DAYDSF1,SOLAR,QLD1,150.0,Daydream Solar Farm
+DEVILS_G,HYDRO,TAS1,67.0,Devils Gate Power Station
+DIAPURWF1,WIND,VIC1,7.0,Diapur Wind Farm
+DULAWF1,WIND,QLD1,173.0,Dulacca Wind Farm
+DUNDWF1,WIND,VIC1,168.0,Dundonnell Wind Farm
+DUNDWF2,WIND,VIC1,46.0,Dundonnell Wind Farm
+DUNDWF3,WIND,VIC1,122.0,Dundonnell Wind Farm
+EDENVSF1,SOLAR,QLD1,146.0,Edenvale Solar Park
+EILDON1,HYDRO,VIC1,60.0,Eildon Power Station
+EILDON2,HYDRO,VIC1,60.0,Eildon Power Station
+EILDON3,HYDRO,VIC1,5.0,Eildon Power Station
+ELAINWF1,WIND,VIC1,82.0,Elaine Wind Farm
+EMERASF1,SOLAR,QLD1,72.0,Emerald Solar Park
+FNWF1,WIND,VIC1,3.0,Ferguson North Wind Farm
+FSWF1,WIND,VIC1,7.0,Ferguson South Wind Farm
+FINLYSF1,SOLAR,NSW1,133.0,Finley Solar Farm
+FISHER,HYDRO,TAS1,46.0,Fisher Power Station
+FLYCRKWF,WIND,NSW1,140.0,Flyers Creek Wind Farm
+GANGARR1,SOLAR,QLD1,120.0,Gangarri Solar Farm
+GANNSF1,SOLAR,VIC1,50.0,Gannawarra Solar Farm
+GIRGSF,SOLAR,VIC1,76.0,Girgarre Solar Farm
+GLBWNHYD,HYDRO,NSW1,6.0,Glenbawn Hydro Power Station
+GLENMAG1,HYDRO,VIC1,4.0,Glenmaggie Hydro Power Station
+GLENSF1,SOLAR,VIC1,102.0,Glenrowan Solar Farm
+GLRWNSF1,SOLAR,VIC1,110.0,Glenrowan West Solar Farm
+GPWFEST1,WIND,VIC1,240.0,Golden Plains Wind Farm East
+GPWFEST2,WIND,VIC1,253.0,Golden Plains Wind Farm East
+GPWFEST3,WIND,VIC1,240.0,Golden Plains Wind Farm East
+GOONSF1,SOLAR,NSW1,69.0,Goonumbla Solar Farm
+GORDON,HYDRO,TAS1,450.0,Gordon Power Station
+GSWF1A,WIND,SA1,201.0,Goyder South Wind Farm 1A
+GSWF1B1,WIND,SA1,196.0,Goyder South Wind Farm 1B
+GRANWF1,WIND,TAS1,111.0,Granville Harbour Wind Farm
+GRIFSF1,SOLAR,NSW1,27.0,Griffith Solar Farm
+GULLRSF1,SOLAR,NSW1,10.0,Gullen Range Solar Farm
+GULLRWF1,WIND,NSW1,161.0,Gullen Range Wind Farm
+GULLRWF2,WIND,NSW1,107.0,Gullen Range Wind Farm
+GNNDHSF1,SOLAR,NSW1,110.0,Gunnedah Solar Farm
+GUNNING1,WIND,NSW1,47.0,Gunning Wind Farm
+GUTHEGA,HYDRO,NSW1,80.0,Guthega Power Station
+GUTHEGA,HYDRO,NSW1,80.0,Guthega Power Station
+HALLWF1,WIND,SA1,95.0,Hallett 1 Wind Farm
+HALLWF2,WIND,SA1,71.0,Hallett 2 Wind Farm
+HAMISF1,SOLAR,QLD1,56.0,Hamilton Solar Farm
+HVWWPV1,SOLAR,SA1,8.0,Happy Valley Water Treatment Plant
+HAUGHT11,SOLAR,QLD1,100.0,Haughton Solar Farm Stage 1
+HD1WF1,WIND,VIC1,89.0,Hawkesdale Wind Farm
+HAYMSF1,SOLAR,QLD1,50.0,Hayman Solar Farm
+HEPWIND1,WIND,VIC1,4.0,Hepburn Community Wind Farm
+HILLSTN1,SOLAR,NSW1,85.0,Hillston Sun Farm 
+HDWF1,WIND,SA1,102.0,Hornsdale Wind Farm
+HDWF2,WIND,SA1,102.0,Hornsdale Wind Farm 2
+HDWF3,WIND,SA1,109.0,Hornsdale Wind Farm 3
+HUGSF1,SOLAR,QLD1,18.0,Hughenden Solar Farm
+HUMENSW,HYDRO,NSW1,70.0,Hume (NSW) Hydro Power Station
+HUMEV,HYDRO,VIC1,70.0,Hume (Vic) Hydro Power Station
+JEMALNG1,SOLAR,NSW1,50.0,Jemalong Solar Project
+JNDABNE1,HYDRO,NSW1,1.0,Jindabyne Small Hydro Power Station
+JBUTTERS,HYDRO,TAS1,144.0,John Butters Power Station
+JOUNAMA1,HYDRO,NSW1,14.0,Jounama Small Hydro Power Station
+JUNEESF1,SOLAR,NSW1,30.0,Junee Solar Farm
+KABANWF1,WIND,QLD1,152.0,Kaban Wind Farm
+KARSF1,SOLAR,VIC1,90.0,Karadoc Solar Farm
+KAREEYA1,HYDRO,QLD1,22.0,Kareeya Power Station
+KAREEYA2,HYDRO,QLD1,22.0,Kareeya Power Station
+KAREEYA3,HYDRO,QLD1,22.0,Kareeya Power Station
+KAREEYA4,HYDRO,QLD1,22.0,Kareeya Power Station
+KAREEYA5,HYDRO,QLD1,7.0,Kareeya Power Station
+KEEPIT,HYDRO,NSW1,8.0,Keepit Hydro Power Station
+KEPSF1,SOLAR,QLD1,15.0,Kennedy Energy Park
+KEPWF1,WIND,QLD1,43.0,Kennedy Energy Park
+KERNGSP1,SOLAR,VIC1,30.0,Kerang Solar Plant
+KIAMSF1,SOLAR,VIC1,200.0,Kiamal Solar Farm
+KIATAWF1,WIND,VIC1,31.0,Kiata Wind Farm
+KSP1,SOLAR,QLD1,47.7,Kidston Solar Project Phase One
+KINGASF1,SOLAR,QLD1,40.0,Kingaroy Solar Farm
+LKBONNY2,WIND,SA1,159.0,Lake Bonney Stage 2 Windfarm
+LKBONNY3,WIND,SA1,39.0,Lake Bonney Stage 3 Wind Farm
+LKBONNY1,WIND,SA1,81.0,Lake Bonney Wind Farm Stage 1
+LK_ECHO,HYDRO,TAS1,34.0,Lake Echo Power Station
+LEM_WIL,HYDRO,TAS1,86.0,Lemonthyme / Wilmot Power Station
+LILYSF1,SOLAR,QLD1,100.0,Lilyvale Solar Farm
+LIMOSF11,SOLAR,NSW1,220.0,Limondale Solar Farm 1
+LIMOSF21,SOLAR,NSW1,29.0,Limondale Solar Farm 2
+LGAPWF1,WIND,SA1,123.0,Lincoln Gap Wind Farm
+LGAPWF2,WIND,SA1,85.0,Lincoln Gap Wind Farm
+LRSF1,SOLAR,QLD1,15.0,Longreach Solar Farm
+MACARTH1,WIND,VIC1,420.0,Macarthur Wind Farm
+MCINTYR1,WIND,QLD1,890.0,MacIntyre Wind Farm
+MACKNTSH,HYDRO,TAS1,89.0,Mackintosh Power Station
+MANSLR1,SOLAR,NSW1,46.0,Manildra solar Farm
+MAPS2PV1,SOLAR,SA1,13.4,"Mannum - Adelaide Pipeline Pumping Station No 2, PV Units 1-6"
+MAPS3PV1,SOLAR,SA1,12.4,"Mannum - Adelaide Pipeline Pumping Station No 3, PV Units 1-6"
+MANNSF2,SOLAR,SA1,29.0,Mannum 2 Solar Farm
+MAROOWF1,WIND,VIC1,6.0,Maroona Wind Farm
+MARYRSF1,SOLAR,QLD1,27.0,Maryrorough Solar Farm
+MEADOWBK,HYDRO,TAS1,44.0,Meadowbank Power Station
+METZSF1,SOLAR,NSW1,115.0,Metz Solar Farm
+MIDDLSF1,SOLAR,QLD1,26.0,Middlemount Solar Farm
+MOKOSF1,SOLAR,VIC1,46.0,Mokoan Solar Farm
+MOLNGSF1,SOLAR,NSW1,30.0,Molong Solar Farm
+MOORAWF1,WIND,VIC1,305.0,Moorabool Wind Farm 
+MOREESF1,SOLAR,NSW1,56.0,Moree Solar Farm
+MWPS1PV1,SOLAR,SA1,4.6,Morgan-Whyalla Pipeline Pumping Station No 1
+MWPS2PV1,SOLAR,SA1,4.6,Morgan-Whyalla Pipeline Pumping Station No 2
+MWPS3PV1,SOLAR,SA1,6.2,Morgan-Whyalla Pipeline Pumping Station No 3
+MWPS4PV1,SOLAR,SA1,4.56,Morgan-Whyalla Pipeline Pumping Station No 4
+MRTLSWF1,WIND,VIC1,153.0,Mortlake South Wind Farm
+MLWF1,WIND,VIC1,20.0,Mortons Lane Wind Farm
+MEWF1,WIND,QLD1,178.0,Mount Emerald Wind Farm
+MOUSF1,SOLAR,QLD1,82.0,Moura Solar Farm
+MTGELWF1,WIND,VIC1,132.0,Mt Gellibrand Wind Farm
+MERCER01,WIND,VIC1,131.0,Mt Mercer Wind Farm
+MTMILLAR,WIND,SA1,70.0,Mt Millar Wind Farm
+MLSP1,SOLAR,NSW1,12.0,Mugga Lane Solar Park
+MUWAWF1,WIND,VIC1,225.7,Murra Warra Wind Farm
+MUWAWF2,WIND,VIC1,203.0,Murra Warra Wind Farm Stage 2
+MBPS2PV1,SOLAR,SA1,10.3,Murray Bridge-Onkaparinga Pipeline Pumping Station No 2
+MURRAY,HYDRO,VIC1,1575.0,Murray Power Station
+MURRAY,HYDRO,VIC1,1575.0,Murray Power Station
+MUSSELR1,WIND,TAS1,168.0,Musselroe Wind Farm
+NASF1,SOLAR,NSW1,9.0,Narromine Solar Farm
+NEVERSF1,SOLAR,NSW1,105.0,Nevertire Solar Farm
+NEWENSF1,SOLAR,NSW1,200.0,New England Solar Farm
+NEWENSF2,SOLAR,NSW1,200.0,New England Solar Farm
+NBHWF1,WIND,SA1,132.0,North Brown Hill Wind Farm
+NUMURSF1,SOLAR,VIC1,100.0,Numurkah Solar Farm
+NYNGAN1,SOLAR,NSW1,102.0,Nyngan Solar Plant
+OAKEY1SF,SOLAR,QLD1,25.0,Oakey 1 Solar Farm
+OAKEY2SF,SOLAR,QLD1,55.0,Oakey 2 Solar Farm
+OAKLAND1,WIND,VIC1,63.0,Oaklands Hill Wind Farm
+PALOONA,HYDRO,TAS1,33.0,Paloona Power Station
+PARSF1,SOLAR,NSW1,50.5,Parkes Solar Farm
+PINDARI,HYDRO,NSW1,6.0,Pindari Hydro Power Station
+POAT110,HYDRO,TAS1,124.0,Poatina Power Station
+POAT220,HYDRO,TAS1,248.0,Poatina Power Station
+PAREPS1,SOLAR,SA1,77.0,Port Augusta Renewable Energy Park
+PAREPW1,WIND,SA1,201.0,Port Augusta Renewable Energy Park
+REECE1,HYDRO,TAS1,119.0,Reece Power Station
+REECE2,HYDRO,TAS1,119.0,Reece Power Station
+REPULSE,HYDRO,TAS1,34.0,Repulse Power Station
+RRSF1,SOLAR,QLD1,116.0,Ross River Solar Farm
+ROWALLAN,HYDRO,TAS1,11.0,Rowallan Power Station
+ROYALLA1,SOLAR,NSW1,20.0,Royalla Solar Farm
+RUBICON,HYDRO,VIC1,13.0,Rubicon Mountain Streams Station
+RUGBYR1,SOLAR,QLD1,65.0,Rugby Run Solar Farm
+RYANCWF1,WIND,VIC1,205.0,Ryan Corner Wind Farm
+RYEPARK1,WIND,NSW1,384.0,Rye Park Renewable Energy
+SALTCRK1,WIND,VIC1,54.0,Salt Creek Wind Farm
+SAPHWF1,WIND,NSW1,270.0,Sapphire Wind Farm
+SEBSF1,SOLAR,NSW1,90.0,Sebastopol Solar Farm
+SHGEN,HYDRO,NSW1,247.0,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps)
+STWF1,WIND,NSW1,198.0,Silverton Wind Farm
+SNOWSTH1,WIND,SA1,126.0,Snowtown South Wind Farm
+SNOWNTH1,WIND,SA1,144.0,Snowtown Wind Farm Stage 2 North
+SNOWTWN1,WIND,SA1,99.0,Snowtown Wind Farm Units 1 And 47
+HLMSEW01,HYDRO,VIC1,1.0,South East Water - Halllam Hydro Plant
+SKSF1,SOLAR,NSW1,13.0,South Keswick Solar Farm
+STARHLWF,WIND,SA1,35.0,Starfish Hill Wind Farm
+STOCKYD1,WIND,VIC1,511.0,Stockyard Hill Wind Farm
+STUBSF1,SOLAR,NSW1,202.0,Stubbo Solar Farm 1
+STUBSF2,SOLAR,NSW1,198.0,Stubbo Solar Farm 2
+SMCSF1,SOLAR,QLD1,121.0,Sun Metals Solar Farm
+SUNRSF1,SOLAR,NSW1,200.0,SUNRAYSIA SF
+SUNTPSF1,SOLAR,NSW1,150.0,Suntop Solar Farm
+SRSF1,SOLAR,QLD1,75.0,Susan River Solar Farm
+TB2SF1,SOLAR,SA1,87.0,Tailem Bend 2 Hybrid Renewable Power Station
+TB2SF1,SOLAR,SA1,87.0,Tailem Bend 2 Hybrid Renewable Power Station
+TBSF1,SOLAR,SA1,95.0,Tailem Bend Solar Project 1
+TARALGA1,WIND,NSW1,106.0,Taralga Wind Farm
+TARRALEA,HYDRO,TAS1,94.0,Tarraleah Power Station
+BLUFF1,WIND,SA1,53.0,The Bluff Wind Farm
+THEDROP1,HYDRO,NSW1,3.0,The Drop Power Station
+TIMWEST,WIND,VIC1,7.2,Timboon West Wind Farm
+TOORAWF,WIND,VIC1,21.0,Toora Wind Farm
+TREVALLN,HYDRO,TAS1,107.0,Trevallyn Power Station
+TRIBUTE,HYDRO,TAS1,92.0,Tribute Power Station
+TUMUT3,HYDRO,NSW1,1800.0,Tumut 3 Power Station
+TUMUT3,HYDRO,NSW1,1800.0,Tumut 3 Power Station
+UPPTUMUT,HYDRO,NSW1,665.0,Tumut Power Station
+UPPTUMUT,HYDRO,NSW1,665.0,Tumut Power Station
+TUNGATIN,HYDRO,TAS1,142.0,Tungatinah Power Station
+VALDORA1,SOLAR,QLD1,15.0,Valdora Solar Farm
+WAGGNSF1,SOLAR,NSW1,48.0,Wagga North Solar Farm
+WLWLSF1,SOLAR,NSW1,150.0,Walla Walla Solar Farm 1
+WLWLSF2,SOLAR,NSW1,150.0,Walla Walla Solar Farm 2
+WANDSF1,SOLAR,QLD1,125.0,Wandoan Solar Farm 1
+WARWSF1,SOLAR,QLD1,32.0,Warwick Solar Farm 1 
+WARWSF2,SOLAR,QLD1,32.0,Warwick Solar Farm 2
+WATERLWF,WIND,SA1,130.0,Waterloo Wind Farm
+WPWF,WIND,SA1,91.0,Wattle Point Wind Farm
+WAUBRAWF,WIND,VIC1,192.0,Waubra Wind Farm
+WELNSF1,SOLAR,NSW1,330.0,Wellington North Solar Farm
+WELLSF1,SOLAR,NSW1,170.0,Wellington Solar Farm 
+WEMENSF1,SOLAR,VIC1,88.0,Wemen Solar Farm
+WKIEWA1,HYDRO,VIC1,34.0,West Kiewa Power Station
+WKIEWA2,HYDRO,VIC1,34.0,West Kiewa Power Station
+WSTWYSF1,SOLAR,NSW1,90.0,West Wyalong Solar Farm
+WDGPH1,SOLAR,QLD1,400.0,Western Downs GPH
+WRSF1,SOLAR,NSW1,20.0,White Rock Solar Farm
+WRWF1,WIND,NSW1,172.0,White Rock Wind Farm
+WHITSF1,SOLAR,QLD1,56.0,Whitsunday Solar Farm
+WILLHOV1,HYDRO,VIC1,2.0,William Hovell Power Station
+WGWF1,WIND,SA1,119.0,Willogoleche Wind Farm
+WHILL1,WIND,QLD1,12.0,Windy Hill Wind Farm
+WINTSF1,SOLAR,VIC1,85.0,Winton Solar Farm
+W/HOE#1,HYDRO,QLD1,285.0,Wivenhoe Power Station
+W/HOE#2,HYDRO,QLD1,285.0,Wivenhoe Power Station
+WOLARSF1,SOLAR,NSW1,280.0,Wollar Solar Farm
+WONWP,WIND,VIC1,12.0,Wonthaggi Wind Farm
+WOODLWN1,WIND,NSW1,48.0,Woodlawn Wind Farm
+WOOLNTH1,WIND,TAS1,140.0,Woolnorth Studland Bay / Bluff Point Wind Farm
+WOOLGSF1,SOLAR,QLD1,176.0,Woolooga Solar Farm
+WUNUSF1,SOLAR,VIC1,75.0,Wunghnu Solar Farm
+WYASF1,SOLAR,NSW1,53.0,Wyalong Solar Farm
+WYANGALA,HYDRO,NSW1,20.0,Wyangala A Power Station
+WYANGALB,HYDRO,NSW1,4.0,Wyangala B Power Station
+YSWF1,WIND,VIC1,28.0,Yaloak South Wind Farm
+YAMBUKWF,WIND,VIC1,30.0,Yambuk Wind Farm
+YARANSF1,SOLAR,QLD1,103.0,Yarranlea Solar Farm
+YWNGAHYD,HYDRO,VIC1,9.0,Yarrawonga Hydro Power Station
+YATSF1,SOLAR,VIC1,81.0,Yatpool Solar Farm
+YAWWF1,WIND,VIC1,7.2,Yawong Wind Farm
+YENDWF1,WIND,VIC1,142.0,Yendon Wind Farm
